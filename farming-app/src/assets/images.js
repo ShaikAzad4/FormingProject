@@ -9,13 +9,27 @@ export const cropImages = {
   soybean: 'https://plus.unsplash.com/premium_photo-1661815691473-5efc09a055e4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c295YSUyMGJlYW4lMjBmYXJtaW5nfGVufDB8fDB8fHww',
   jowar: 'https://media.istockphoto.com/id/907567632/photo/close-up-of-millet-in-the-field.webp?a=1&b=1&s=612x612&w=0&k=20&c=fV-U9dM0Zf883R81LhpcFWmbXvidq9NytBwmE7US3v8=',
   bajra: 'https://media.istockphoto.com/id/2212889186/photo/it-is-widely-consumed-crop-ripped-bajra-pearl-in-the-field-crop-of-pearl-millet-pear-millet.webp?a=1&b=1&s=612x612&w=0&k=20&c=GepiIKAYcSxjsAfw9VtY2BFCfxzMSdTfBWLjeoxi2Ok=',
-  
+
+
+  tomato:"https://images.pexels.com/photos/1327838/pexels-photo-1327838.jpeg",
+  chickpea:"https://images.pexels.com/photos/28110905/pexels-photo-28110905.jpeg",
+  banana:"https://images.pexels.com/photos/214158/pexels-photo-214158.jpeg",
+  millet:"https://images.pexels.com/photos/10738421/pexels-photo-10738421.jpeg",
+  watermelon:"https://images.pexels.com/photos/20544739/pexels-photo-20544739.jpeg",
+  cucumber:"https://images.pexels.com/photos/31737296/pexels-photo-31737296.jpeg",
+  carrot:"https://images.pexels.com/photos/35810240/pexels-photo-35810240.jpeg",
+  onion:"https://tse1.explicit.bing.net/th/id/OIP.32umOUDNRvYRGkmbeFYjBgHaFC?w=600&h=408&rs=1&pid=ImgDetMain&o=7&rm=3",
+  radish:"https://tse3.mm.bing.net/th/id/OIP.B6zKp_syaez8maOKmuaRSgHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+  sorghum:"https://cdn.britannica.com/21/136021-050-FA97E7C7/Sorghum.jpg",
+  pigeonpea:"https://th.bing.com/th/id/OIP.zyepVy0ClfigAqCcz0S5RwHaHa?w=171&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+  chilli:"https://static.vecteezy.com/system/resources/previews/025/870/628/large_2x/red-chilli-peppers-background-for-social-media-advertising-and-marketing-generative-ai-free-photo.jpeg",
+
   // Rabi Crops
   wheat: 'https://images.unsplash.com/photo-1654856453392-e59c00596781?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHdoZWF0JTIwZmFybWluZ3xlbnwwfHwwfHx8MA%3D%3D',
   mustard: 'https://plus.unsplash.com/premium_photo-1725551070695-303d5790b287?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bXVzdGFyZCUyMHNlZWR8ZW58MHx8MHx8fDA%3D',
   gram: 'https://media.istockphoto.com/id/1269145356/photo/bunch-of-raw-moong-beans-on-plant-in-a-farm-land-in-india.webp?a=1&b=1&s=612x612&w=0&k=20&c=__8eMfSqiSpic33fSdQhtZSh8rd-nwjVbYUepDDlj4o=',
   pea: 'https://images.unsplash.com/photo-1596564823703-d28706a620e8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBlYXxlbnwwfHwwfHx8MA%3D%3D',
-  barley: 'https://images.unsplash.com/photo-1626671502253-c50bad9325b1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGJhcmxleSUyMGZhcm18ZW58MHx8MHx8fDA%3D',
+  barley: 'https://images.pexels.com/photos/32657976/pexels-photo-32657976.jpeg',
   linseed: 'https://plus.unsplash.com/premium_photo-1726072357487-d5f62862a220?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGluc2VlZHxlbnwwfHwwfHx8MA%3D%3D',
   sunflower: 'https://images.unsplash.com/photo-1599369553272-29f89a9d4696?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHN1bmZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D'
 };
