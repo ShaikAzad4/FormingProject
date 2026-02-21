@@ -148,17 +148,16 @@ const CropDetails = () => {
         Expected Yield: ${crop.yield}
       `;
 
-      // Send request to backend
-      const response = await fetch(`${process.env.REACT_APP_API_URL}/api/chat`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          message: inputMessage,
-          cropContext: cropContext
-        }),
-      });
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/api/chat`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        message: inputMessage,
+        cropContext: cropContext
+      }),
+    });
 
       const data = await response.json();
       
