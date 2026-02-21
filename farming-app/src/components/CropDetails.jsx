@@ -403,13 +403,13 @@ const CropDetails = () => {
                   </div>
                 </div>
 
-                <div className="info-item">
+                {/* <div className="info-item">
                   <FaFlask className="info-icon" />
                   <div className="info-content">
                     <h4>Fertilizer</h4>
                     <p>{crop.fertilizer}</p>
                   </div>
-                </div>
+                </div> */}
 
                 <div className="info-item">
                   <FaWeightHanging className="info-icon" />
